@@ -1,0 +1,6 @@
+{
+  "name": "AI Deforestation Monitor",
+  "description": "An AI-powered web application to analyze satellite imagery for signs of deforestation using the Gemini API. Users can upload an image and receive a detailed analysis of potential deforestation hotspots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
